@@ -1,4 +1,4 @@
-# Online Shop Backend
+# Asset Management Backend
 
 This is the backend for the Online Shop project. It is built using Express.js for the server and MongoDB as the database.
 
@@ -6,7 +6,7 @@ This is the backend for the Online Shop project. It is built using Express.js fo
   -- For using this you need to setup your own database password and username
 ## Live Demo
 
-Explore the live demo: [Online Shop](https://technocrud-b57e7.web.app/)
+[Asset Management Website](https://assetmanaegment.web.app/)
 
 ## Prerequisites
 
